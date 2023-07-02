@@ -1,0 +1,3 @@
+/root/jiqunliaotian/muduotest/build/CMakeFiles/rebuild_cache.dir
+/root/jiqunliaotian/muduotest/build/CMakeFiles/server.dir
+/root/jiqunliaotian/muduotest/build/CMakeFiles/edit_cache.dir
